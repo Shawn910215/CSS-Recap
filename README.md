@@ -221,3 +221,40 @@ align-items:; justify-items:;
 --for individual items, they can align themselves: align-self:; justify-self:;
 
 P64 Web Design!!!
+
+P66 Design and development
+
+P67 Rules #1 Typography
+1.Serif
+-Traditional and class looking
+
+2.Sans-Serif
+-clean and simple
+
+3. Use good typefaces
+   1.Only use good andpopular typefaces
+   --Inter,Open Sans, Roboto,Montserrat,Work Sans
+   2.use one typeface per page!limit to 2.
+   3.less than 75 characters per line.
+   4.font size between 16-32px for normal text
+   5.long text 20px or bigger to make it easy to read
+   6.headlines, go rreally big 50px+ and bold(600+)
+   7.for any text, do not use a font weight under 400.
+   8.for normal text,line height between 1.5-2. For big text, go below 1.5
+   9.Decrease letter spacing in headlines, if it looks unnatural.
+   10.Experiment with all caps for short titles.make them samll and bold and increase letter-spacing.
+   11.Usually, don't justify text.
+   12.Don't center long text blocks. Small blocks are fine.
+
+P69 Web Design Rules#2 Colors
+1.Open color,Tailwindcss,palleton.com,coolors,Tint & Shade Generator. -well designed color to choose.
+2.two types of colors in your color palette: main and grey(dark version of main)
+3.with more experience, you can add more colors:accent colors(use a tool)
+4.for diversity, create lighter and darker versions(tints and shades)
+5.Use main colors to draw attention to the most important elements on the page(logo, button etc.)
+6.use colors to add interesting accents to make entire components or sections stand out.
+7.try to use color strategically in images and illustrations
+8.on dark colored background, try to use a tint of the background("lighter version") for text
+9.Text should usually not be completely black. Lighten if up it looks heavy and uninviting.
+11.Do not make text too light! use a tool to check contrast between text and background colors:
+--contrast ratio needs to be at least 4.5:1 for normal text and 3:1 for large text(18px+)
