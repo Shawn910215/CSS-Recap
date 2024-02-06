@@ -258,3 +258,32 @@ P69 Web Design Rules#2 Colors
 9.Text should usually not be completely black. Lighten if up it looks heavy and uninviting.
 11.Do not make text too light! use a tool to check contrast between text and background colors:
 --contrast ratio needs to be at least 4.5:1 for normal text and 3:1 for large text(18px+)
+
+P71 Rules#3 Images and Illustrations
+1.different types of images: product photos, storytelling photos,illustrations,patterns
+2.Use images to support your website's message and story. So only use relevant images!
+3.Prefer original images. if not possible, use original-looking stock images(not generic ones)
+4.Image tools: Unsplash,Pexels,DrawKit,unDraw 5. Try to show real people to trigger user's emotions
+6.if necessary, crop images to fit your message.
+7.Handling Text on images
+7.1 Darker or brighten image(completely or partially, using a gradient)
+7.2Position text into neutral image area.
+7.3 Put text in a box. 8. To account for high-res screens, make image dimensions 2x as big as their displayed size
+9.Compress images for a lower file size and better performance(use Squoosh tool to compress images.😁)
+10.When using multiple images side-by-side,make sure they have the exact same dimensions.
+
+P72 Rules#4 Icons
+1.Use a good icon pack, there are tons of gree and paid icons packs(Phosphor icons,ionicons,icons8)
+2.Use only one icon pack. Do not mix icons from different icon packs.
+3.Use SVG icons or icon fonts. Do not use bitmap image formats(.jpg and .png).
+4.Adjust to website personality!Roundness,weight and filled/outlined depend on typography.
+5.Use icons to provide visual assistance to text.
+6.Use icons for product feature blocks
+7.Use icons associated with actions, and label them
+8.Use icons as bullet points.
+9.1 To keep icons neutral, use same color as text. To draw more attention, use different color.
+9.2 Do not confuse your users: icons need to make sense and fit the text or action!
+9.3 Do not make icons larger that what they were designed for. if needed, enclose them in a shape.
+
+P73: use online tools to copy svg(ex.heroicons) to the list.
+Use multiple cursors: press option(alt) key when select multiple svg codes. and to the place you want to paste. do it again.
