@@ -232,7 +232,7 @@ P67 Rules #1 Typography
 -clean and simple
 
 3. Use good typefaces
-   1.Only use good andpopular typefaces
+   1.Only use good and popular typefaces
    --Inter,Open Sans, Roboto,Montserrat,Work Sans
    2.use one typeface per page!limit to 2.
    3.less than 75 characters per line.
@@ -287,3 +287,95 @@ P72 Rules#4 Icons
 
 P73: use online tools to copy svg(ex.heroicons) to the list.
 Use multiple cursors: press option(alt) key when select multiple svg codes. and to the place you want to paste. do it again.
+
+P74 Rule#5 shadows
+1.After an era of 100% flat design, we're now back to using shadows in UI design("flat design 2.0")
+2.Shadow creates depth(3D): the more shadow, the further away from the interface the element is
+3.1 You don't have to use shadows! Only use them if it makes sense for the website personality.
+
+---
+
+## Serious/Elegant less shadows while Playful/fun more shadows.
+
+3.2 Use shadows in small doses: don't add shadows to every element!
+3.3 Go light on shadows, don't make them too dark!
+3.4 Use small shadows for smaller elements that should stand out(to draw attention)
+example: buttons,contact input box...
+3.5 Use mediun-sized shadows for larger areas that should stand out a bit more. (carts)
+3.6 Use large shadows for elements that should really float above the interface.(pop up windows or navigation dropdown)
+3.7 Experiment with changing shadows on mouse interaction(click and hover)(example: hover medium-sized shadow, click smaller sized shadow)
+3.8 Experiment with glows(color shadows)
+
+P76 Rule#6 Border-radius
+1.Use border-radius to increase the playfulness and fun of the design, to make it less serious
+2.Typefaces have a certain roundness: make sure that border-radius matches that roundness!
+3.Use border-radius on buttons,images,around icons,standout sections and other elements
+
+P78 Rules#7 Whitespace
+1.the right amount of whitespace makes designs look clean,modern and polished
+2.whitespace implies invisible relationships between the elements of a layout
+3.Use tons of whitespace between sections.
+4.Use a lot of whitespace between groups of elements.
+5.Use whitespace between elements
+6.Inside groups of elements, try to use whitespace instead of lines.
+7.The more some elements belong together, the closer they should be!
+8.Start with a lot of whitespace, then remove whitespace from there.
+9.Match other design choices.If you have big text or big icons, you need more whitespace.
+10.Try a hard rule, such as using multiples of 16px for all spaceing.
+
+P79 Rules#8 Visual Hierarchy
+1.Visual hierarchy is about establishing which elements of a design are the most important ones.
+2.Visual hierarchy is about drawing attention to these most important elements.
+3.Visual hierarchy is about defining a "path" for users, to guide them through the page.
+4.We use a combination of position,size,colors,spacing,borders and shadows to establish a meaningful visual hierarchy betwee elements/components.
+
+5.Position important elements closer to the of the page. where they get more attention.
+6.Images draw a lot of attention(larger images get more attention)
+7.Use whitespace strategically to emphasize elements.
+8.For text elements, use font size, font weight, color and whitespace to convery importance.
+9.Emphasize Title,sub-titles,links,buttons,data points,icons; De-emphasize less important text, like labels or secondary/additional informations.
+
+10.Emphasize an important component using background color, shadow, or border.
+11.Try emphasizing some component A over component B by de-emphasizing component B.
+12 Components to emphasize:Testmonials,call-to-action sections,highlight sections,preview cards,forms,pricing tables,important rows/columns in tables,etc.
+
+P80 Rule#8 UI and UX
+1.Do not design complicated layouts. Do not reinvent the wheel. Use patterns that users know.
+2.Make your call-to-action the most prominent element, and make the text descriptive
+3.Use blue text and underlined text only for links!
+4.Animations should have a purpose and be fast: between 200 and 500ms 5. In forms,align labels and fields in a single vertical line, to make the form easier to scan
+6.Offer users good feedback for all actions: form errors, form success,etc.[Web apps]
+7.Place action buttons where they will create an effect(law of locality)[web apps]
+
+UX rules for website content:
+8.Use a descriptive,keyword-focused headline on hour main page. Do not be vague or fancy!
+9.Only include relevant information, efficientlya1 Cut out fluff and make the content 100% clear.
+10.Use simple words! Avoid technical jargon and "smart-sounding" words.
+11.Bread up long text with sub-headings,images,block quotes, bullet points,etc.
+
+P82.The website-personalities-Framework
+Q1:How do you want website to appear to users? What "vibe" do you want to transmit?
+A1:Choose one of the website personalities accordingly
+
+------The 7 Personalities------
+1.Serious/Elegant
+2.Minimalist/Simple
+3.Plain/Neutral
+4.Bold/Confident
+5.Calm/Peaceful
+6.Startup/Upbeat
+7.Playful/Fun
+
+P83.Steal like an artist
+Not completely copying a design!
+Taking good parts and adapting them to our needs.
+
+get inspiration from following website:
+
+Land-book.com
+awwwards.com
+screenlane.com
+onepagelove.com
+
+New section
+P85 Rule#10. Elements and components
