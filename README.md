@@ -379,3 +379,9 @@ onepagelove.com
 
 New section
 P85 Rule#10. Elements and components
+From Elements to Webpage
+Elements==>Components==>Layouts==>webpage
+
+1. Use common elements and components to convey your website's information
+   2.Combine comonents into layouts using common layout patterns
+   3.Assemble different layout areas into a complete, final page
