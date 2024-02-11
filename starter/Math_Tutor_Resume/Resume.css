@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Inter", sans-serif;
+  color: #343a40;
+}
+
+/*
+SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+FONT SIZE SYSTEM (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+*/
+
+/* 
+MAIN COLOR: #087f5b
+GREY COLOR: #343a40
+*/
+
+.container {
+  width: 1500px;
+  display: flex;
+  gap: 48px;
+
+  margin: 100px auto;
+  padding: 24px;
+}
+
+.intro {
+  background-color: #087f5b;
+  border-radius: 10px;
+  color: #fff;
+  padding: 24px;
+  margin-bottom: 48px;
+}
+.intro-header {
+  font-size: 52px;
+  margin-bottom: 24px;
+  letter-spacing: -0.6px;
+  font-weight: 600;
+}
+.intro-text {
+  font-size: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 48px;
+  font-weight: 500;
+}
+
+.experience-title {
+  font-size: 32px;
+  margin-bottom: 24px;
+}
+.feature-title {
+  font-size: 24px;
+  margin-bottom: 24px;
+  border-bottom: #087f5b 4px solid;
+}
+.feature-text {
+}
+
+.images {
+  width: 150px;
+  height: 200px;
+  border-radius: 5%;
+}
+.icon {
+  width: 24px;
+  height: 24px;
+  stroke: #087f5b;
+  margin-bottom: 24px;
+  font-weight: 700;
+}
+
+.grid-3-columns {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 36px;
+  /* background-color: #087f5b; */
+  margin: 24px 0;
+  padding: 24px 0;
+}
+
+.books {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 24px;
+  box-shadow: 0 0 32px rgba(0, 0, 0, 0.1);
+  /* background-color:#343a40; */
+  align-items: auto;
+}
