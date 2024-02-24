@@ -67,7 +67,6 @@ the content+border+padding are visible parts of elements.
 P33 Using margins and paddings.
 \*{
 //use universal selecter to reset margin and padding is quite common. And it is easy to be override by other selectors.
-
 margin:0;
 padding:0;
 }
@@ -98,12 +97,12 @@ can use display: inline/block to change the type of box.
 
 -\*\*inline-block
 --display:inline-block
---looks line inline box from outside, but can apply vertical change.
+--looks inline box from outside, but can apply vertical change.
 example:
 nav a:link{
 display:inline-block;
 margin-right:10px;
-margin-top:10px;
+margin-top:10px;3
 }
 
 nav a:link:last-child{
@@ -238,7 +237,7 @@ P67 Rules #1 Typography
    3.less than 75 characters per line.
    4.font size between 16-32px for normal text
    5.long text 20px or bigger to make it easy to read
-   6.headlines, go rreally big 50px+ and bold(600+)
+   6.headlines, go really big 50px+ and bold(600+)
    7.for any text, do not use a font weight under 400.
    8.for normal text,line height between 1.5-2. For big text, go below 1.5
    9.Decrease letter spacing in headlines, if it looks unnatural.
