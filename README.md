@@ -102,7 +102,7 @@ example:
 nav a:link{
 display:inline-block;
 margin-right:10px;
-margin-top:10px;3
+margin-top:10px;
 }
 
 nav a:link:last-child{
